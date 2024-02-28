@@ -17,7 +17,7 @@
 
 const myn1 = [2, 0, 33, 44, 55 ]
 
-console.log("A " , "= " + myn1)
+console.log("A " ,    "= " + myn1)
 
 const myn2 = myn1.slice(1,3)
 console.log(myn2)
