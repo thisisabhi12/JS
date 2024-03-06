@@ -30,3 +30,4 @@ function returnSecondValue(getArray){
 
 console.log(returnSecondValue(mynewarray));
 
+ 
